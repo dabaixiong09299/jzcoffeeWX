@@ -1,0 +1,32 @@
+@charset "utf-8";
+/* CSS Document */
+
+.container{box-sizing:border-box;position:relative;overflow:hidden;overflow-y: auto;width:100%;}
+.container-padding{box-sizing:border-box;position:relative;overflow:hidden;overflow-y: auto;width:100%;padding:0.25rem 0.3rem;}
+.search-box{width:4.85rem;height:0.55rem;line-height:0.55rem;}
+.search-btn{width:0.95rem;height:0.55rem;line-height:0.55rem;}
+.job-bg{width:5.82rem;height:1.48rem;background:url(../images/position-bg.png) no-repeat 0;}
+.job-arrow{margin-top:0.32rem;}
+.job-cont{padding:0.25rem 0.30rem 0.25rem 0;background:url(../images/arrow02.png) no-repeat center right;}
+.info-cont{width:1.66rem;}
+.info-btn{margin:1.37rem auto 0;}
+.info-select{border-right:0.01rem solid #25ac00;padding:0.05rem 0.44rem 0.05rem 0.18rem;background:url(../images/arrow01.png) no-repeat 0.80rem center;}
+.search-cont{width:4.80rem;}
+.search-close{width:0.92rem;}
+.search-txt{margin-top:0.07rem;}
+.search-close{height:0.62rem;line-height:0.62rem;}
+.search-history{background:#f1f1f1;height:0.48rem;line-height:0.48rem;border-radius:0.24rem;padding:0 0.2rem;margin:0 0.1rem 0.16rem 0}
+.search-history-del{margin-left:0.15rem;position:relative;top:0.07rem;}
+
+
+
+
+
+
+
+
+
+
+
+
+

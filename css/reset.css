@@ -1,0 +1,15 @@
+body,p,dd,h1,h2,h3,dl{ margin:0;}
+ul{ list-style:none; margin:0; padding:0;}
+img{ border:none;}
+a{ text-decoration:none;}
+input,textarea{ -webkit-box-sizing:border-box; font-size:0.6rem; font-family:黑体; }
+input:focus,textarea:focus{ outline:none; }
+input[type="button"], input[type="submit"], input[type="reset"] { -webkit-appearance: none; }
+textarea {  -webkit-appearance: none;} 
+dt,dd{ display:inline-block; }
+i{ font-style:normal; }
+/* 特殊作用 */
+.ClearFix:after{ display:block; content:""; clear:both;}
+select{ font-family:黑体; }
+
+::-webkit-input-placeholder{ color:#606366; }
